@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vision-live.github.io/blog/sitemap.xml
+Sitemap: https://valhallasmp.uk/blog/sitemap.xml
